@@ -1,10 +1,10 @@
 @echo off
 echo ==============================================
-echo ·PÁÂ¤ä«ùANGEL-RO
-echo ¯¬±z´r§Ö
-echo ÂIÀ»¥ô·N«öÁä¤U¸üµ{¦¡
+echo æ„Ÿè¬æ”¯æŒANGEL-RO
+echo ç¥æ‚¨æ„‰å¿«
+echo é»æ“Šä»»æ„æŒ‰éµä¸‹è¼‰ç¨‹å¼
 echo ==============================================
 pause
-echo ¥¿¦b¤U¸ü...
-wget -N https://raw.githubusercontent.com/love08006310/smile1234/master/SSS/Angel-Ro.exe
-call Angel-Ro.exe
+echo æ­£åœ¨ä¸‹è¼‰...
+wget -N https://raw.githubusercontent.com/love08006310/smile1234/master/SSS/Angel.exe
+call Angel.exe
