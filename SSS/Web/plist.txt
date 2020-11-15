@@ -1,4 +1,0 @@
-1 data/mes/ano.thor
-2
-3
-4
